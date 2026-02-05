@@ -2,7 +2,7 @@
 本程序只用于反诈宣传，请勿用于其他非法行为
 
 ## DiceGame
-最近抖音很火的骰子大富翁游戏
+最近抖音很火的骰子大富翁游戏揭秘
 
 ## 棋盘如下
 ![棋盘](https://github.com/weilianxiao/DiceGame/blob/main/Images/paint.png)
@@ -15,9 +15,31 @@
 - 假设选择了顺时针方向,点数总和为18,在盘面上找到18作为起点,从18点开始数,数18步
 - 豹子直接拿钱,1/2豹子2000元,3/4豹子4000元,5/6豹子6000元
 
+## 胜率 100次
+
+### 顺时针
+![100次顺时针](https://github.com/weilianxiao/DiceGame/blob/main/Images/100顺时针.png)
+### 逆时针
+![100次逆时针](https://github.com/weilianxiao/DiceGame/blob/main/Images/100逆时针.png)
+
+
+## 胜率 1000次
+### 顺时针
+![100次顺时针](https://github.com/weilianxiao/DiceGame/blob/main/Images/1000顺时针.png)
+### 逆时针
+![100次逆时针](https://github.com/weilianxiao/DiceGame/blob/main/Images/1000逆时针.png)
+
+## 胜率 10000次
+
+### 顺时针
+![100次顺时针](https://github.com/weilianxiao/DiceGame/blob/main/Images/10000顺时针.png)
+### 逆时针
+![100次逆时针](https://github.com/weilianxiao/DiceGame/blob/main/Images/10000逆时针.png)
+
+
 
 ## 分析胜率统计情况
-
+相对来说，逆时针胜率比顺时针胜率要高一些，下面分析一下情况
 分析顺时针和逆时针方向的胜率高低，我们需要从规则逻辑和概率分布两个维度进行分析。
 
 
