@@ -1,0 +1,19 @@
+# Visual Studio 临时文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx
+*.v2.suo
+*.vc.db
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# 其他常见忽略项
+bin/
+obj/
+packages/
+*.log
