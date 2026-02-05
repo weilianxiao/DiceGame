@@ -5,7 +5,7 @@
 最近抖音很火的骰子大富翁游戏
 
 ## 棋盘如下
-![棋盘](images/paint.png)
+![棋盘](https://github.com/weilianxiao/DiceGame/blob/main/Images/paint.png)
 
 
 ## 游戏规则
